@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
-<h3 align="center">A passionate Frontend / MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend / MERN Stack Developer from India </h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/15/80/47/15804790beb41b0758b91945cfe0a9df--cute-boys-anime.jpg"
