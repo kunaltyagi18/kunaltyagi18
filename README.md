@@ -29,8 +29,8 @@
 
 <table width="100%">
 <tr>
-  <td width="40%"><b>Programming Languages</b></td>
-  <td width="80%">
+  <td width="50%"><b>Programming Languages</b></td>
+  <td width="90%">
     <img src="https://skillicons.dev/icons?i=c,cpp,js&perline=6" />
   </td>
 </tr>
