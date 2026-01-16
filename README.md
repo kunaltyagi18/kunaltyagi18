@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Frontend / MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=650&height=45">
+  <img src="![coding boy2](https://github.com/user-attachments/assets/21055c61-22e7-41f1-a482-8a22174c70c8)
+?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=650&height=45">
 </p>
 
 ---
