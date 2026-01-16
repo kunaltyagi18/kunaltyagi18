@@ -60,12 +60,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
   </td>
 </tr>
-<tr>
-  <td><b>Other Familiar Skills (Amateur)</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=mysql,postman,linux&perline=6" />
-  </td>
-</tr>
+
 </table>
 
 ---
