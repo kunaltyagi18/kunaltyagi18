@@ -2,79 +2,67 @@
 <h3 align="center">A passionate Frontend / MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;React%20Enthusiast&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=600&height=45">
 </p>
 
 ---
 
-### 🌱 I’m currently learning
+## 🔗 Connect With Me:
+<p align="left">
+  <a href="https://linkedin.com/in/kunal-tyagi-36a5ab2a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kunaltyagi_18">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:tyagikunal1818@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## </> Languages, Tools and Technologies
+
+| Category | Skills |
+|--------|--------|
+| **Programming Languages** | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) |
+| **Frontend Technologies** | ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) |
+| **Backend Technologies** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+| **Developer Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| **Other Familiar Skills (Amateur)** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux) |
+
+---
+
+### 🌱 Currently Learning
 - Data Structures & Algorithms (C++)
 - MERN Stack Development
 
-### 👨‍💻 All of my projects are available at
-- 🔗 https://github.com/kunaltyagi18
-
-### 💬 Ask me about
+### 💬 Ask Me About
 - React, JavaScript, HTML, CSS  
 - MERN Stack Basics
 
-### 📫 How to reach me
-- 📧 **tyagikunal1818@gmail.com**
+### 👨‍💻 Projects
+🔗 https://github.com/kunaltyagi18
 
-### ⚡ Fun fact
-- 😄 I love turning coffee into code and bugs into features
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kunal-tyagi-36a5ab2a6" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/kunaltyagi_18" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+### ⚡ Fun Fact
+😄 I love turning coffee into code and bugs into features
 
 ---
 
-<h3 align="left">Languages, Tools and Technologies</h3>
-
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunaltyagi18&show_icons=true&theme=tokyonight" />
 </p>
 
-### 🎨 Frontend Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltyagi18&theme=tokyonight" />
 </p>
 
-### 🛠️ Backend Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaltyagi18&layout=compact&theme=tokyonight" />
 </p>
-
-### 🧰 Developer Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>
-
-### 📌 Other Familiar Skills (Amateur)
-- MySQL  
-- REST APIs  
-- Problem Solving  
-- Basic System Design
 
 ---
 
-⭐️ From **Kunal Tyagi**
+⭐ **Kunal Tyagi**
