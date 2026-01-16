@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend / MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=650&height=45">
 </p>
 
 ---
@@ -12,9 +12,11 @@
   <a href="https://linkedin.com/in/kunal-tyagi-36a5ab2a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/kunaltyagi_18">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:tyagikunal1818@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -24,13 +26,38 @@
 
 ## </> Languages, Tools and Technologies
 
-| Category | Skills       |
-|--------|--------        |
-| **Programming Languages** | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js)    |
-| **Frontend Technologies** | ![React](https://skillicons.dev/icons?i=react) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)      |
-| **Backend Technologies** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb)         |
-| **Developer Tools** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode)      |
-| **Other Familiar Skills (Amateur)** | ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux)       |
+<table width="100%">
+<tr>
+  <td width="30%"><b>Programming Languages</b></td>
+  <td width="70%">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js&perline=6" />
+  </td>
+</tr>
+<tr>
+  <td><b>Frontend Technologies</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=react,html,css&perline=6" />
+  </td>
+</tr>
+<tr>
+  <td><b>Backend Technologies</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" />
+  </td>
+</tr>
+<tr>
+  <td><b>Developer Tools</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+  </td>
+</tr>
+<tr>
+  <td><b>Other Familiar Skills (Amateur)</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=mysql,postman,linux&perline=6" />
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -49,5 +76,6 @@
 😄 I love turning coffee into code and bugs into features
 
 ---
+
 
 ⭐ **Kunal Tyagi**
