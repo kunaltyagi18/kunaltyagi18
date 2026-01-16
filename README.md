@@ -2,8 +2,15 @@
 <h3 align="center">A passionate Frontend / MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src=""https://https://i.pinimg.com/736x/15/80/47/15804790beb41b0758b91945cfe0a9df--cute-boys-anime.jpg?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=650&height=45"">
+  <img src="https://i.pinimg.com/736x/15/80/47/15804790beb41b0758b91945cfe0a9df--cute-boys-anime.jpg"
+       width="180"
+       style="border-radius:12px;" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;MERN%20Stack%20Learner;DSA%20with%20C%2B%2B;Always%20Learning&center=true&width=650&height=45">
+</p>
+
 
 ---
 
