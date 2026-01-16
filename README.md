@@ -8,18 +8,19 @@
 ---
 
 ## 🔗 Connect With Me:
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/kunal-tyagi-36a5ab2a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/kunaltyagi_18">
+
+  <a href="https://instagram.com/kunaltyagi_18" style="margin-left:12px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tyagikunal1818@gmail.com">
+
+  <a href="mailto:tyagikunal1818@gmail.com" style="margin-left:12px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</div>
 </p>
 
 ---
@@ -28,8 +29,8 @@
 
 <table width="100%">
 <tr>
-  <td width="30%"><b>Programming Languages</b></td>
-  <td width="70%">
+  <td width="40%"><b>Programming Languages</b></td>
+  <td width="80%">
     <img src="https://skillicons.dev/icons?i=c,cpp,js&perline=6" />
   </td>
 </tr>
