@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/15/80/47/15804790beb41b0758b91945cfe0a9df--cute-boys-anime.jpg"
-       width="400"
+       width="360"
        style="border-radius:14px;" />
 </p>
 
